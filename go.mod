@@ -1,4 +1,4 @@
-module github.com/amarnathcjd/gogram
+module github.com/jwillp/gogram
 
 go 1.19 // -> 1.20
 
