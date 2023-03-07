@@ -20,7 +20,7 @@ type Unmarshaler interface {
 
 //==========================================================================================================//
 // Next types are specific structs for handling bool types, slice and null as object.                       //
-// See https://github.com/amarnathcjd/gogram/issues/51                                                           //
+// See https://github.com/jwillp/gogram/issues/51                                                           //
 //==========================================================================================================//
 
 // PseudoTrue is a support struct which is required to get native

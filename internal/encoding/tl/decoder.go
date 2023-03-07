@@ -277,7 +277,7 @@ func (d *Decoder) decodeRegisteredObject() Object {
 	var _typ reflect.Type
 
 	// firstly, we are checking specific crc situations.
-	// See https://github.com/amarnathcjd/gogram/issues/51
+	// See https://github.com/jwillp/gogram/issues/51
 	switch crc {
 	case CrcVector:
 		if len(d.expectedTypes) == 0 {

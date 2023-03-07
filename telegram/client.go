@@ -11,12 +11,12 @@ import (
 	"sync"
 	"time"
 
-	mtproto "github.com/amarnathcjd/gogram"
+	mtproto "github.com/jwillp/gogram"
 	"github.com/pkg/errors"
 
-	"github.com/amarnathcjd/gogram/internal/keys"
-	"github.com/amarnathcjd/gogram/internal/session"
-	"github.com/amarnathcjd/gogram/internal/utils"
+	"github.com/jwillp/gogram/internal/keys"
+	"github.com/jwillp/gogram/internal/session"
+	"github.com/jwillp/gogram/internal/utils"
 )
 
 const (

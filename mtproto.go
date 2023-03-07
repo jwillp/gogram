@@ -15,13 +15,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/amarnathcjd/gogram/internal/encoding/tl"
-	"github.com/amarnathcjd/gogram/internal/mode"
-	"github.com/amarnathcjd/gogram/internal/mtproto/messages"
-	"github.com/amarnathcjd/gogram/internal/mtproto/objects"
-	"github.com/amarnathcjd/gogram/internal/session"
-	"github.com/amarnathcjd/gogram/internal/transport"
-	"github.com/amarnathcjd/gogram/internal/utils"
+	"github.com/jwillp/gogram/internal/encoding/tl"
+	"github.com/jwillp/gogram/internal/mode"
+	"github.com/jwillp/gogram/internal/mtproto/messages"
+	"github.com/jwillp/gogram/internal/mtproto/objects"
+	"github.com/jwillp/gogram/internal/session"
+	"github.com/jwillp/gogram/internal/transport"
+	"github.com/jwillp/gogram/internal/utils"
 	"github.com/pkg/errors"
 )
 

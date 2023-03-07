@@ -1,4 +1,4 @@
-// Copyright (c) 2022, amarnathcjd
+// Copyright (c) 2022, jwillp
 
 package telegram
 

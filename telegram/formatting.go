@@ -8,7 +8,7 @@ import (
 	"unicode"
 	"unicode/utf16"
 
-	"github.com/amarnathcjd/gogram/internal/utils"
+	"github.com/jwillp/gogram/internal/utils"
 )
 
 type Formatter struct {

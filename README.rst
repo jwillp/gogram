@@ -43,7 +43,7 @@ Installing
 
 .. code-block:: sh
 
-  go get -u github.com/amarnathcjd/gogram
+  go get -u github.com/jwillp/gogram
 
     
 Set-Up Client
@@ -138,7 +138,7 @@ TODO
 - ✔️ Add Update Handle System
 - ✔️ Make a reliable HTML Parser
 - ✔️ Friendly Methods to Handle CallbackQuery, VoiceCalls
-- 🔨 Add Flag2.0 Parser (Then update to Layer-151https://img.shields.io/github/issues/amarnathcjd/gogram)
+- 🔨 Add Flag2.0 Parser (Then update to Layer-151https://img.shields.io/github/issues/jwillp/gogram)
 - 📝 Fix File handling
 - 📝 Write beautiful Docs
 - 📝 Multiple tests
@@ -150,13 +150,13 @@ TODO
   :width: 400
   :alt: Logo
 
-.. |imx| image:: https://img.shields.io/github/issues/amarnathcjd/gogram
+.. |imx| image:: https://img.shields.io/github/issues/jwillp/gogram
    :alt: GitHub issues
 
-.. |imgo| image:: https://img.shields.io/github/go-mod/go-version/amarnathcjd/gogram/master
+.. |imgo| image:: https://img.shields.io/github/go-mod/go-version/jwillp/gogram/master
    :alt: GitHub go.mod Go version (branch & subdirectory of monorepo)
 
-.. |cma| image:: https://img.shields.io/github/commit-activity/y/amarnathcjd/gogram
+.. |cma| image:: https://img.shields.io/github/commit-activity/y/jwillp/gogram
    :alt: GitHub commit activity
 
 Contributing

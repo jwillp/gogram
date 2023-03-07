@@ -9,7 +9,7 @@ import (
 	"github.com/dave/jennifer/jen"
 	"github.com/pkg/errors"
 
-	"github.com/amarnathcjd/gogram/internal/cmd/tlgen/tlparser"
+	"github.com/jwillp/gogram/internal/cmd/tlgen/tlparser"
 )
 
 // некоторые названия (id, api, url etc.) нужно или капсом или никак (например нельзя написать Id, или

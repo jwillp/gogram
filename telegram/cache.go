@@ -10,8 +10,8 @@ import (
 	"time"
 	"unsafe"
 
-	aes "github.com/amarnathcjd/gogram/internal/aes_ige"
-	"github.com/amarnathcjd/gogram/internal/utils"
+	aes "github.com/jwillp/gogram/internal/aes_ige"
+	"github.com/jwillp/gogram/internal/utils"
 )
 
 const (
